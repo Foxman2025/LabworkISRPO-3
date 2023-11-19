@@ -4,7 +4,7 @@
     CreateHtml
 
 ## The command with which you can call the extension: 
-    Create html file
+    >Create html file
 
 ## Description of the command "Create html file":
     При вызове, команда создаст в рабочей области файл с именем index.html
